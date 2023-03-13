@@ -66,7 +66,7 @@ function Footer() {
             </div>
           </div>
           <p class="copyright">
-            Copyright © 2022. All Rights Reserved{" "}
+            Copyright © 2023. All Rights Reserved{" "}
             <a
               href="https:gunaseelan.netlify.app"
               target="_blank"
